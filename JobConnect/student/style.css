@@ -1,0 +1,31 @@
+body{
+    background:#f4f7fc;
+}
+
+.sidebar{
+    min-height:100vh;
+    background:#0d6efd;
+    color:white;
+}
+
+.sidebar a{
+    color:white;
+    display:block;
+    padding:12px;
+    text-decoration:none;
+}
+
+.sidebar a:hover{
+    background:white;
+    color:#0d6efd;
+}
+
+.card{
+    border:none;
+    border-radius:15px;
+}
+
+.stat-card{
+    text-align:center;
+    padding:20px;
+}

@@ -1,0 +1,23 @@
+body{
+    background:#f8f9fa;
+}
+
+.hero{
+    padding:90px 0;
+    background:linear-gradient(135deg,#0d6efd,#6610f2);
+    color:white;
+}
+
+.hero h1{
+    font-size:55px;
+    font-weight:bold;
+}
+
+.card{
+    border:none;
+    transition:.3s;
+}
+
+.card:hover{
+    transform:translateY(-8px);
+}
